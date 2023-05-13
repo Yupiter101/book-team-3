@@ -1,11 +1,11 @@
-{
-  "name": "parcel-project-template",
+  {
+  "name": "book-team-3",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/lezver/project-new_skill",
+  "homepage": "https://Yupiter101.github.io/book-team-3",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-new_skill/"
+    "build": "parcel build src/*.html --public-url /book-team-3/"
   },
   "repository": {
     "type": "git",
